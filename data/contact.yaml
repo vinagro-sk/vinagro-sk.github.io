@@ -1,28 +1,13 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
+email: 'vinagro (zavináč) vinagro.sk'
+phone: '+421 315 502 511'
 businessName: 'Hugo Serif'
 address: |
-  123 Some Street
-  City, State 12345
-hours:
-  - day: Monday
-    open: 8:30am
-    close: 5:00pm
-  - day: Tuesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Wednesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Thursday
-    open: 8:30am
-    close: 5:00pm
-  - day: Friday
-    open: 8:30am
-    close: 5:00pm
-  - day: Saturday
-    open: Closed
-    close:
-  - day: Sunday
-    open: Closed
-    close:
+  Vinagro, a.s.
+  930 32 Macov 6
+  Slovenská republika
+
+  IČO: 36 23 03 83
+  DIČ: 20 20 19 49 68
+  IČ DPH: SK 20 20 19 49 68
+
+  IBAN: SK42 0200 0000 0025 4888 2159
