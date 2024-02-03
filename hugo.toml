@@ -1,0 +1,32 @@
+# Site settings
+baseURL = "https://vinagro.sk/"
+languageCode = "sk-sk"
+title = "Vinagro, a.s."
+theme = "hugo-split-theme"
+#disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Copyright
+copyright = "&copy;2024 Vinagro, a.s."
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Vinagro, a.s."
+  description = "Rodinná farma na južnom Slovensku."
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/raphael-rychetsky-li9JfUHQfOY-unsplash.jpg"
+      position = "center center"
+
